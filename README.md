@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Screenshot 2023-09-06 at 12.30.56.png" width="375px" alt="starbucks home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
- Starbucks menu
-  <img src="readme-images/Screenshot 2023-09-06 at 12.31.18.png" width="375px" alt="starbucks menu">
+ Starbucks product
+  <img src="readme-images/Screenshot 2023-09-06 at 12.44.15.png" width="375px" alt="starbucks menu">
  
 </details>
 
