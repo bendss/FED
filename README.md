@@ -36,10 +36,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  www.xbox.com
+  www.starbucks.com
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  Xbox Home 
+  Starbucks home
   <img src="readme-images/homepagina.jpg" width="375px" alt="xbox home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
