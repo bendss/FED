@@ -40,11 +40,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Starbucks home
-  <img src="readme-images/homepagina.jpg" width="375px" alt="xbox home">
+  <img src="readme-images/Screenshot 2023-09-06 at 12.30.56.png" width="375px" alt="starbucks home">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Xbox Next-Gen 
-  <img src="readme-images/nextgen.jpg" width="375px" alt="xbox next gen">
+ Starbucks menu
+  <img src="readme-images/Screenshot 2023-09-06 at 12.31.18.png" width="375px" alt="starbucks menu">
  
 </details>
 
